@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="SV/LazyImageLoader" base_version_id="2030000" export_version="2">
+  <phrase title="option.SV_LazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2000000" version_string="2.0.0"><![CDATA[Enable Outside threads/conversations]]></phrase>
+  <phrase title="option.lazyLoaderPlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2000200" version_string="2.0.2"><![CDATA[Inject blank SVG for attachment]]></phrase>
+  <phrase title="option.svLazyLoaderBlankSvg" addon_id="SV/LazyImageLoader" version_id="2010401" version_string="2.1.4"><![CDATA[Blank SVG]]></phrase>
+  <phrase title="option.sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2010200" version_string="2.1.2"><![CDATA[Force lazy loaded spoiler'ed images]]></phrase>
+  <phrase title="option_SV_LazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="100001" version_string="1.0.01"><![CDATA[Enable Outside threads/conversations]]></phrase>
+  <phrase title="option_explain.SV_LazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="100001" version_string="1.0.01"><![CDATA[By default, lazy loading is disabled outside of threads or conversations for areas which use bb code.]]></phrase>
+  <phrase title="option_explain.lazyLoaderPlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2000200" version_string="2.0.2"><![CDATA[To prevent jank, inject an inline SVG with the same dimensions as the attachment]]></phrase>
+  <phrase title="option_explain.svLazyLoaderBlankSvg" addon_id="SV/LazyImageLoader" version_id="2010401" version_string="2.1.4"><![CDATA[The blank SVG to insert for attachments, where the {width}/{height} are valid replaceable.]]></phrase>
+  <phrase title="option_explain.sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2010200" version_string="2.1.2"><![CDATA[Ignores permissions, and lazy loads images in spoilers]]></phrase>
+  <phrase title="option_group.SV_LazyLoader" addon_id="SV/LazyImageLoader" version_id="1" version_string="0.0.1"><![CDATA[Image Lazy Loader]]></phrase>
+  <phrase title="option_group_description.SV_LazyLoader" addon_id="SV/LazyImageLoader" version_id="1" version_string="0.0.1"><![CDATA[Do less loading.]]></phrase>
+  <phrase title="option_sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="100040" version_string="1.0.4"><![CDATA[Force Lazy Loaded Spoiler]]></phrase>
+  <phrase title="permission.conversation_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2000000" version_string="2.0.0"><![CDATA[Lazy Load Images]]></phrase>
+  <phrase title="permission.forum_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2000000" version_string="2.0.0"><![CDATA[Lazy Load Images]]></phrase>
+  <phrase title="style_prop.svLazyLoad" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Lazy loading]]></phrase>
+  <phrase title="style_prop.svLazyLoaded" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Lazy loading finished]]></phrase>
+  <phrase title="style_prop.svLazyLoading" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Lazy loading in progress]]></phrase>
+  <phrase title="style_prop_desc.svLazyLoad" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Styling for images yet to be loaded]]></phrase>
+  <phrase title="style_prop_desc.svLazyLoaded" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.svLazyLoading" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.svLazyImageLoader" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[Lazy Image Loader]]></phrase>
+  <phrase title="style_prop_group_desc.svLazyImageLoader" addon_id="SV/LazyImageLoader" version_id="2010600" version_string="2.1.6"><![CDATA[]]></phrase>
+</language>
