@@ -10,7 +10,7 @@
   <phrase title="option_explain.svLazyLoaderBlankSvg" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Бланк вставки SVG для вложений, где {ширина}/{высота} действительно заменимы.]]></phrase>
   <phrase title="option_explain.sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Игнорирует разрешения и отложено загружает изображения в спойлерах]]></phrase>
   <phrase title="option_group.SV_LazyLoader" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[[Xon] Image Lazy Loader]]></phrase>
-  <phrase title="option_group_description.SV_LazyLoader" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Выполнять без загрузки.]]></phrase>
+  <phrase title="option_group_description.SV_LazyLoader" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Сделайте меньше нагрузку.]]></phrase>
   <phrase title="option_sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Форсировать отложенную загрузку спойлера (spoiler)]]></phrase>
   <phrase title="permission.conversation_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Отложенная загрузка изображений]]></phrase>
   <phrase title="permission.forum_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Отложенная загрузка изображений]]></phrase>
