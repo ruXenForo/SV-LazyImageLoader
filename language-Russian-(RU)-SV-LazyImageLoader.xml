@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" user_selectable="1" addon_id="SV/LazyImageLoader" base_version_id="2050000" export_version="2">
-  <phrase title="option.svLazyLoader_BlankSvg" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Blank SVG]]></phrase>
-  <phrase title="option.svLazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Enable Outside threads/conversations]]></phrase>
-  <phrase title="option.svLazyLoader_ForceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Force lazy loaded spoiler'ed images]]></phrase>
-  <phrase title="option.svLazyLoader_Icons" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Lazy load icons]]></phrase>
-  <phrase title="option.svLazyLoader_NativeMode" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Use native lazy loading]]></phrase>
-  <phrase title="option.svLazyLoader_PlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Inject blank SVG for attachment]]></phrase>
-  <phrase title="option_SV_LazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="100001" version_string="1.0.01"><![CDATA[Enable Outside threads/conversations]]></phrase>
-  <phrase title="option_explain.svLazyLoader_BlankSvg" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[The blank SVG to insert for attachments, where the {width}/{height} are valid replaceable.]]></phrase>
-  <phrase title="option_explain.svLazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[By default, lazy loading is disabled outside of threads or conversations for areas which use bb code.]]></phrase>
-  <phrase title="option_explain.svLazyLoader_ForceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Ignores permissions, and lazy loads images in spoilers]]></phrase>
-  <phrase title="option_explain.svLazyLoader_Icons" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Lazy load user avatars, resource icons, and threadmark icons.<br/>
-This uses browser native lazy loading]]></phrase>
-  <phrase title="option_explain.svLazyLoader_NativeMode" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Requires a modern browser, otherwise falls back to js library code]]></phrase>
-  <phrase title="option_explain.svLazyLoader_PlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[To prevent jank, inject an inline SVG with the same dimensions as the attachment]]></phrase>
-  <phrase title="option_group.svLazyLoader" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Image Lazy Loader]]></phrase>
-  <phrase title="option_group_description.svLazyLoader" addon_id="SV/LazyImageLoader" version_id="2040100" version_string="2.4.1"><![CDATA[Do less loading.]]></phrase>
-  <phrase title="option_sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="100040" version_string="1.0.4"><![CDATA[Force Lazy Loaded Spoiler]]></phrase>
-  <phrase title="permission.conversation_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Отложенная загрузка изображений]]></phrase>
-  <phrase title="permission.forum_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Отложенная загрузка изображений]]></phrase>
+  <phrase title="option.svLazyLoader_BlankSvg" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Пустой SVG]]></phrase>
+  <phrase title="option.svLazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Включение вне тем/переписок]]></phrase>
+  <phrase title="option.svLazyLoader_ForceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Принудительно использовать отложенную загрузку изображений в спойлерах]]></phrase>
+  <phrase title="option.svLazyLoader_Icons" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Иконки отложенной загрузки]]></phrase>
+  <phrase title="option.svLazyLoader_NativeMode" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Используйте встроенную отложенную загрузку]]></phrase>
+  <phrase title="option.svLazyLoader_PlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Вставить пустой SVG-файл для вложения]]></phrase>
+  <phrase title="option_SV_LazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Включение вне тем/переписок]]></phrase>
+  <phrase title="option_explain.svLazyLoader_BlankSvg" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Пустой SVG для вставки вложений, где допустимы заменяемые {width}/{height} (ширина/высота).]]></phrase>
+  <phrase title="option_explain.svLazyLoader_EnableDefault" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[По умолчанию отложенная загрузка отключена вне тем или переписок для областей, в которых используется BB-код.]]></phrase>
+  <phrase title="option_explain.svLazyLoader_ForceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Игнорирует разрешения и отложено загружает изображения в спойлерах]]></phrase>
+  <phrase title="option_explain.svLazyLoader_Icons" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Отложенная загрузка аватаров пользователей, иконок ресурсов и иконок тем. <br/>
+Это использует встроенную отложенную загрузку браузера]]></phrase>
+  <phrase title="option_explain.svLazyLoader_NativeMode" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Требуется современный браузер, в противном случае вернется к коду js-библиотеки]]></phrase>
+  <phrase title="option_explain.svLazyLoader_PlaceholderUrl" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Для предотвращения затяжки, вставьте встроенный SVG с такими же размерами, как у вложения]]></phrase>
+  <phrase title="option_group.svLazyLoader" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Image Lazy Loader]]></phrase>
+  <phrase title="option_group_description.svLazyLoader" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Меньше нагрузки.]]></phrase>
+  <phrase title="option_sv_forceLazySpoilerTag" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Принудительная отложенная загрузка спойлера]]></phrase>
+  <phrase title="permission.conversation_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Использование отложенной загрузки изображений]]></phrase>
+  <phrase title="permission.forum_sv_lazyload_enable" addon_id="SV/LazyImageLoader" version_id="2050000" version_string="2.5.0"><![CDATA[Использование отложенной загрузки изображений]]></phrase>
   <phrase title="style_prop.svLazyLoad" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Отложенная загрузка]]></phrase>
   <phrase title="style_prop.svLazyLoaded" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Отложенная загрузка завершена]]></phrase>
   <phrase title="style_prop.svLazyLoading" addon_id="SV/LazyImageLoader" version_id="2030000" version_string="2.3.0"><![CDATA[Идет отложенная загрузка]]></phrase>
